@@ -1,0 +1,4 @@
+Login to Orange HRM
+Enter user ID and Password
+Click enter
+Verify if the login Is successful i.e. Dashboard Tab is visible
