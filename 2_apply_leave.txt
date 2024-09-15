@@ -1,0 +1,3 @@
+Login the given user
+Click on Apply tab
+Select dates and apply leave
